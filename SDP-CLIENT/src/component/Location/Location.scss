@@ -1,0 +1,74 @@
+.content {
+    padding-top: 50px;
+    width: 80%;
+    margin: auto;
+
+    .header {
+        padding: 30px 0;
+        width: 100%;
+        display: flex;
+
+        button {
+            margin-left: auto;
+        }
+    }
+}
+
+.edit-btn {
+    background-color: transparent;
+    border: 0;
+    color: var(--green);
+    font-size: 22px;
+}
+
+.add-btn {
+    background-color: var(--green);
+    color: #ffffff;
+    border: 0px;
+    outline: none;
+    padding: 5px 20px;
+    font-family: Dax;
+    border-radius: 0.325em;
+    font-size: 1.125em;
+    font-weight: 700;
+}
+
+.header {
+    h4 {
+        color: var(--red);
+    }
+}
+
+.table-header {
+    background-color: #11101d;
+    color: white;
+    margin: 10px 0;
+    border-radius: 10px !important;
+
+    tr {
+        border-radius: 10px !important;
+
+        th {
+            margin: 10px;
+            padding: 10px;
+        }
+    }
+}
+
+.table-body {
+    p {
+        font-size: 1.125em;
+        font-weight: 500;
+    }
+}
+
+.table-div {
+    overflow: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+        display: none;
+    }
+
+}

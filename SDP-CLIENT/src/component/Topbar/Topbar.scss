@@ -1,0 +1,37 @@
+.topbar{
+    display: flex;
+    width: 100%;
+    background-color: #11101d;
+    .dropdown{
+        margin-left: auto;
+        padding: 5px;
+
+        .dropdown-menu{
+            z-index: 10000;
+
+            li{
+                padding: 5px;
+                display: flex;
+                img{
+                    width: 40px;
+                }
+            }
+        }
+
+    }
+    .btn-register{
+        background-color: var(--red);
+        color: var(--white);
+        padding: 3px 20px;
+        border-radius: 10px;
+        font-weight: 500;
+        margin: 0 10px;
+        font-size: 1.125em;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        i{
+          margin-right: 10px;
+        }
+      }
+}
