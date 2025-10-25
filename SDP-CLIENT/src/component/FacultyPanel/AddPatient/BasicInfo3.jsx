@@ -957,7 +957,7 @@ function BasicInfo3({ prevData, data, setData, setStep, setLoading }) {
             >
               <option>{t('selectOption', language)}</option>
               <option value={t('yes', language)}>{t('yes', language)}</option>
-              <option value="no">No</option>
+              <option value="no">{t('no', language)}</option>
             </select>
           </div>
         </div>
@@ -1066,8 +1066,8 @@ function BasicInfo3({ prevData, data, setData, setStep, setLoading }) {
               }
             >
               <option>{t('selectOption', language)}</option>
-              <option value="yes">Yes</option>
-              <option value="no">No</option>
+              <option value="yes">{t('yes', language)}</option>
+              <option value="no">{t('no', language)}</option>
             </select>
           </div>
         </div>
@@ -1089,8 +1089,8 @@ function BasicInfo3({ prevData, data, setData, setStep, setLoading }) {
               }
             >
               <option>{t('selectOption', language)}</option>
-              <option value="yes">Yes</option>
-              <option value="no">No</option>
+              <option value="yes">{t('yes', language)}</option>
+              <option value="no">{t('no', language)}</option>
             </select>
           </div>
 
