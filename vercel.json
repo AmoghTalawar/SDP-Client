@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd SDP-CLIENT && npm install && npm run build",
+  "outputDirectory": "SDP-CLIENT/build"
+}
