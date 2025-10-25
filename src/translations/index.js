@@ -700,7 +700,7 @@ export const translations = {
     frPradeepCorrea: "FR. PRADEEP CORREA",
     frPradeepDescription: "Fr Pradeep Correa, the determined director of Hope Recovery Centre at Peerandwadi, Belagavi, who has cured large number of liquor and other addicts, especially the youngsters, is celebrating his golden birthday today. Selfless, modest, devoted and prayerful priest Fr Correa is admired and sought after by scores of families across Belagavi, Southern Maharashtra and Goa region. He has brought hopes in lives of several families who had otherwise lost hope. A teetotaller and blessed with jovial nature Fr Pradeep has been serving Hope Recovery Centre since 2010 and has brought in transformation of liquor addicts. People of every religion, caste and creed visit Hope Centre that has treated thousands of addicted people from the region with a very higher success rate.",
     hopeRecoveryCenter: "Hope Recovery Center",
-    janathaPlot: "Sy. No. 384/20, Mazalwado, Back side of Glenmark Company, IDC, near Powergrid of India, Binani, Kolval, Mapusa, Goa 403513",
+    janathaPlot: " panchayat, janatha Plot, beside Peeranwadi, opposite to KLS School, Piranwadi, Belagavi, Karnataka 590014",
 
     // Home Dashboard Sections
     recentActivities: "Recent Activities",
